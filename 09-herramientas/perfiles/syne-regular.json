@@ -1,0 +1,328 @@
+{
+ "name": "Syne Regular",
+ "family": "Syne",
+ "style": "Regular",
+ "full_name": "Syne Regular",
+ "postscript": "Syne-Regular",
+ "file": "Syne-Regular.woff2",
+ "path": "fuentes/google-syne/Syne-Regular.woff2",
+ "sha1": "ff03d14cdc1b8c363bb31263c13488cd4674d960",
+ "container": "woff2",
+ "outlines": "glyf",
+ "upm": 1000,
+ "glyph_count": 711,
+ "axes": [],
+ "location": {},
+ "instances": [],
+ "weight": 400,
+ "width_class": 5,
+ "italic_angle": 0.0,
+ "fixed_pitch": false,
+ "kerning": "GPOS",
+ "vertical": {
+  "use_typo_metrics": true,
+  "hhea": {
+   "asc": 0.925,
+   "desc": 0.275,
+   "gap": 0.0,
+   "content": 1.2,
+   "normal": 1.2
+  },
+  "typo": {
+   "asc": 0.925,
+   "desc": 0.275,
+   "gap": 0.0,
+   "content": 1.2,
+   "normal": 1.2
+  },
+  "win": {
+   "asc": 0.955,
+   "desc": 0.495,
+   "gap": 0.0,
+   "content": 1.45,
+   "normal": 1.45
+  },
+  "web": {
+   "asc": 0.925,
+   "desc": 0.275,
+   "gap": 0.0,
+   "content": 1.2,
+   "normal": 1.2
+  },
+  "windows": {
+   "asc": 0.925,
+   "desc": 0.275,
+   "gap": 0.0,
+   "content": 1.2,
+   "normal": 1.2
+  },
+  "web_source": "typo",
+  "platform_divergence": null
+ },
+ "glyphs": {
+  "x_height": 0.5,
+  "cap_height": 0.65,
+  "o_overshoot": 0.01,
+  "o_undershoot": 0.01,
+  "O_overshoot": 0.01,
+  "ascender": 0.7,
+  "descender": 0.2,
+  "script": "latn",
+  "x_height_os2": 0.5,
+  "cap_height_os2": 0.65,
+  "digit_height": 0.51,
+  "d_height": 0.7,
+  "lining_digits": false,
+  "xh_cap": 0.7692
+ },
+ "glyphs_by_script": {
+  "latn": {
+   "x_height": 0.5,
+   "cap_height": 0.65,
+   "o_overshoot": 0.01,
+   "o_undershoot": 0.01,
+   "O_overshoot": 0.01,
+   "ascender": 0.7,
+   "descender": 0.2
+  },
+  "grek": {
+   "x_height": 0.5,
+   "cap_height": 0.65,
+   "o_overshoot": 0.01,
+   "o_undershoot": 0.01,
+   "O_overshoot": 0.01,
+   "ascender": 0.71,
+   "descender": 0.2
+  }
+ },
+ "horizontal": {
+  "space": 0.21,
+  "zero_ch": 0.588,
+  "en_dash": 0.56,
+  "em_dash": 0.8,
+  "digit_avg": 0.4826,
+  "tabular_digits": false,
+  "os2_avg_width": 0.563,
+  "sidebearings": {
+   "H": [
+    0.08,
+    0.08
+   ],
+   "O": [
+    0.05,
+    0.05
+   ],
+   "n": [
+    0.065,
+    0.065
+   ],
+   "o": [
+    0.037,
+    0.037
+   ],
+   "a": [
+    0.037,
+    0.065
+   ]
+  }
+ },
+ "text": {
+  "es": {
+   "chars": 31039,
+   "cw": 0.4357,
+   "cw_no_kern": 0.4365,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": -0.193,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_freq_model": 0.4324,
+   "model_gap_pct": -0.75,
+   "line_start_white": 0.047,
+   "line_end_white": 0.0453,
+   "ink": {
+    "top": 0.902,
+    "top_char": "Á",
+    "bottom": 0.2,
+    "bottom_char": "Q",
+    "top_lower": 0.762,
+    "top_lower_char": "á",
+    "bottom_lower": 0.2,
+    "bottom_lower_char": "g"
+   },
+   "lh_no_collision_lower": 0.962,
+   "lh_no_collision_letters": 1.102,
+   "lh_no_collision_all": 1.102
+  },
+  "en": {
+   "chars": 30195,
+   "cw": 0.4321,
+   "cw_no_kern": 0.4338,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": -0.386,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_freq_model": 0.4313,
+   "model_gap_pct": -0.2,
+   "line_start_white": 0.0488,
+   "line_end_white": 0.0454,
+   "ink": {
+    "top": 0.762,
+    "top_char": "à",
+    "bottom": 0.2,
+    "bottom_char": "Q",
+    "top_lower": 0.762,
+    "top_lower_char": "à",
+    "bottom_lower": 0.2,
+    "bottom_lower_char": "g"
+   },
+   "lh_no_collision_lower": 0.962,
+   "lh_no_collision_letters": 0.962,
+   "lh_no_collision_all": 0.962
+  },
+  "fr": {
+   "chars": 30260,
+   "cw": 0.4246,
+   "cw_no_kern": 0.426,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": -0.317,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_freq_model": 0.4258,
+   "model_gap_pct": 0.29,
+   "line_start_white": 0.0503,
+   "line_end_white": 0.0428,
+   "ink": {
+    "top": 0.902,
+    "top_char": "À",
+    "bottom": 0.24,
+    "bottom_char": "ç",
+    "top_lower": 0.762,
+    "top_lower_char": "à",
+    "bottom_lower": 0.24,
+    "bottom_lower_char": "ç"
+   },
+   "lh_no_collision_lower": 1.002,
+   "lh_no_collision_letters": 1.142,
+   "lh_no_collision_all": 1.142
+  },
+  "de": {
+   "chars": 30371,
+   "cw": 0.442,
+   "cw_no_kern": 0.4435,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": -0.352,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_freq_model": 0.4433,
+   "model_gap_pct": 0.3,
+   "line_start_white": 0.0482,
+   "line_end_white": 0.0466,
+   "ink": {
+    "top": 0.71,
+    "top_char": "?",
+    "bottom": 0.2,
+    "bottom_char": "Q",
+    "top_lower": 0.7,
+    "top_lower_char": "b",
+    "bottom_lower": 0.2,
+    "bottom_lower_char": "g"
+   },
+   "lh_no_collision_lower": 0.9,
+   "lh_no_collision_letters": 0.9,
+   "lh_no_collision_all": 0.91
+  },
+  "it": {
+   "chars": 30266,
+   "cw": 0.421,
+   "cw_no_kern": 0.4222,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": -0.282,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_freq_model": 0.4181,
+   "model_gap_pct": -0.7,
+   "line_start_white": 0.0476,
+   "line_end_white": 0.0507,
+   "ink": {
+    "top": 0.902,
+    "top_char": "À",
+    "bottom": 0.2,
+    "bottom_char": "Q",
+    "top_lower": 0.762,
+    "top_lower_char": "à",
+    "bottom_lower": 0.2,
+    "bottom_lower_char": "g"
+   },
+   "lh_no_collision_lower": 0.962,
+   "lh_no_collision_letters": 1.102,
+   "lh_no_collision_all": 1.102
+  },
+  "pt": {
+   "chars": 30051,
+   "cw": 0.4476,
+   "cw_no_kern": 0.4485,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": -0.19,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_freq_model": 0.4473,
+   "model_gap_pct": -0.06,
+   "line_start_white": 0.0465,
+   "line_end_white": 0.0479,
+   "ink": {
+    "top": 0.902,
+    "top_char": "À",
+    "bottom": 0.24,
+    "bottom_char": "ç",
+    "top_lower": 0.762,
+    "top_lower_char": "à",
+    "bottom_lower": 0.24,
+    "bottom_lower_char": "ç"
+   },
+   "lh_no_collision_lower": 1.002,
+   "lh_no_collision_letters": 1.142,
+   "lh_no_collision_all": 1.142
+  },
+  "el": {
+   "chars": 30104,
+   "cw": 0.4588,
+   "cw_no_kern": 0.461,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": -0.483,
+   "missing": "",
+   "script": "grek",
+   "shaping": "simple",
+   "line_start_white": 0.0418,
+   "line_end_white": 0.0455,
+   "ink": {
+    "top": 0.762,
+    "top_char": "ά",
+    "bottom": 0.2,
+    "bottom_char": "ή",
+    "top_lower": 0.762,
+    "top_lower_char": "ά",
+    "bottom_lower": 0.2,
+    "bottom_lower_char": "ή"
+   },
+   "lh_no_collision_lower": 0.962,
+   "lh_no_collision_letters": 0.962,
+   "lh_no_collision_all": 0.962
+  }
+ },
+ "notes": [
+  "languages not covered by the font (characters missing): ru 79.1%"
+ ]
+}

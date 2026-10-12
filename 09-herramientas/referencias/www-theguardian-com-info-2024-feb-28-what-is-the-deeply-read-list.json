@@ -1,0 +1,176 @@
+{
+ "url": "https://www.theguardian.com/info/2024/feb/28/what-is-the-deeply-read-list",
+ "uso": "reading",
+ "grupo": "editorial",
+ "medido": "2026-10-12",
+ "viewports": {
+  "375": {
+   "url": "https://www.theguardian.com/info/2024/feb/28/what-is-the-deeply-read-list",
+   "title": "What is the ‘Deeply read’ list? | Information | The Guardian",
+   "viewport": 375,
+   "font_stack": "GuardianTextEgyptian, \"Guardian Text Egyptian Web\", Georgia, serif",
+   "font_used": "GuardianTextEgyptian",
+   "weight": "400",
+   "size": 17,
+   "line_height": 23.8,
+   "lh_ratio": 1.4000000000000001,
+   "letter_spacing": "normal",
+   "word_spacing": "0px",
+   "x_height_canvas": 0.547,
+   "cap_height_canvas": 0.735,
+   "font_urls": [
+    "https://assets.guim.co.uk/static/frontend/fonts/guardian-headline/noalts-not-hinted/GHGuardianHeadline-Bold.woff2",
+    "https://assets.guim.co.uk/static/frontend/fonts/guardian-textegyptian/noalts-not-hinted/GuardianTextEgyptian-Regular.woff2",
+    "https://assets.guim.co.uk/static/frontend/fonts/guardian-textsans/noalts-not-hinted/GuardianTextSans-Regular.woff2",
+    "https://assets.guim.co.uk/static/frontend/fonts/guardian-textsans/noalts-not-hinted/GuardianTextSans-Bold.woff2",
+    "https://assets.guim.co.uk/static/frontend/fonts/guardian-headline/noalts-not-hinted/GHGuardianHeadline-Medium.woff2",
+    "https://assets.guim.co.uk/static/frontend/fonts/guardian-headline/noalts-not-hinted/GHGuardianHeadline-MediumItalic.woff2"
+   ],
+   "char_em": 0.4654611610342356,
+   "paragraphs": 3,
+   "measure_px": 355,
+   "measure_em": 20.88235294117647,
+   "margin_left": 10,
+   "margin_right": 10,
+   "lines": 24,
+   "chars_per_line": [
+    38,
+    42,
+    40,
+    43,
+    43,
+    38,
+    38,
+    39,
+    41,
+    44,
+    45,
+    41,
+    37,
+    37,
+    41,
+    40,
+    42,
+    41,
+    42,
+    42,
+    46,
+    41,
+    44,
+    45
+   ],
+   "last_lines": [
+    37,
+    9,
+    7
+   ],
+   "para_gap_px": 12,
+   "headings": {
+    "h1": {
+     "size": 28,
+     "lh": 32.2,
+     "weight": "500",
+     "family": "GH Guardian Headline",
+     "space_above": 4
+    },
+    "h2": {
+     "size": 24,
+     "lh": 27.6,
+     "weight": "700",
+     "family": "GH Guardian Headline",
+     "space_above": null
+    }
+   },
+   "layout_width": 375,
+   "responsive": true,
+   "font_file": {
+    "file_url": "https://assets.guim.co.uk/static/frontend/fonts/guardian-textegyptian/noalts-not-hinted/GuardianTextEgyptian-Regular.woff2",
+    "name": "GuardianTextEgyptian Regular",
+    "x_height": 0.534,
+    "cap_height": 0.721,
+    "char_em": 0.4703,
+    "lh_min_letters": 1.03,
+    "lang": "en",
+    "axes": {}
+   }
+  },
+  "1440": {
+   "url": "https://www.theguardian.com/info/2024/feb/28/what-is-the-deeply-read-list",
+   "title": "What is the ‘Deeply read’ list? | Information | The Guardian",
+   "viewport": 1440,
+   "font_stack": "GuardianTextEgyptian, \"Guardian Text Egyptian Web\", Georgia, serif",
+   "font_used": "GuardianTextEgyptian",
+   "weight": "400",
+   "size": 17,
+   "line_height": 23.8,
+   "lh_ratio": 1.4000000000000001,
+   "letter_spacing": "normal",
+   "word_spacing": "0px",
+   "x_height_canvas": 0.547,
+   "cap_height_canvas": 0.735,
+   "font_urls": [
+    "https://assets.guim.co.uk/static/frontend/fonts/guardian-headline/noalts-not-hinted/GHGuardianHeadline-Bold.woff2",
+    "https://assets.guim.co.uk/static/frontend/fonts/guardian-textegyptian/noalts-not-hinted/GuardianTextEgyptian-Regular.woff2",
+    "https://assets.guim.co.uk/static/frontend/fonts/guardian-headline/noalts-not-hinted/GHGuardianHeadline-Medium.woff2",
+    "https://assets.guim.co.uk/static/frontend/fonts/guardian-headline/noalts-not-hinted/GHGuardianHeadline-MediumItalic.woff2",
+    "https://assets.guim.co.uk/static/frontend/fonts/guardian-textsans/noalts-not-hinted/GuardianTextSans-Regular.woff2",
+    "https://assets.guim.co.uk/static/frontend/fonts/guardian-textsans/noalts-not-hinted/GuardianTextSans-Bold.woff2"
+   ],
+   "char_em": 0.4654611610342356,
+   "paragraphs": 3,
+   "measure_px": 620,
+   "measure_em": 36.470588235294116,
+   "margin_left": 330,
+   "margin_right": 490,
+   "lines": 12,
+   "chars_per_line": [
+    67,
+    75,
+    74,
+    82,
+    75,
+    76,
+    75,
+    73,
+    76,
+    72,
+    76,
+    72
+   ],
+   "last_lines": [
+    64,
+    18,
+    80
+   ],
+   "para_gap_px": 12,
+   "headings": {
+    "h1": {
+     "size": 34,
+     "lh": 39.1,
+     "weight": "500",
+     "family": "GH Guardian Headline",
+     "space_above": 0
+    },
+    "h2": {
+     "size": 24,
+     "lh": 27.6,
+     "weight": "700",
+     "family": "GH Guardian Headline",
+     "space_above": null
+    }
+   },
+   "layout_width": 1440,
+   "responsive": true,
+   "font_file": {
+    "file_url": "https://assets.guim.co.uk/static/frontend/fonts/guardian-textegyptian/noalts-not-hinted/GuardianTextEgyptian-Regular.woff2",
+    "name": "GuardianTextEgyptian Regular",
+    "x_height": 0.534,
+    "cap_height": 0.721,
+    "char_em": 0.4703,
+    "lh_min_letters": 1.03,
+    "lang": "en",
+    "axes": {}
+   }
+  }
+ }
+}

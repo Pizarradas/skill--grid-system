@@ -1,0 +1,183 @@
+{
+ "url": "https://docs.github.com/en/get-started/start-your-journey/about-github-and-git",
+ "uso": "reading",
+ "grupo": "docs",
+ "medido": "2026-10-12",
+ "viewports": {
+  "375": {
+   "url": "https://docs.github.com/en/get-started/start-your-journey/what-is-github",
+   "title": "What is GitHub? - GitHub Docs",
+   "viewport": 375,
+   "font_stack": "\"Mona Sans\", MonaSansFallback, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+   "font_used": "Mona Sans",
+   "weight": "400",
+   "size": 16,
+   "line_height": 25.6,
+   "lh_ratio": 1.6,
+   "letter_spacing": "normal",
+   "word_spacing": "0px",
+   "x_height_canvas": 0.532,
+   "cap_height_canvas": 0.735,
+   "font_urls": [
+    "https://docs.github.com/_next/static/media/MonaSansVF-wdth-wght-opsz.7a868ff4.woff2",
+    "https://docs.github.com/_next/static/media/MonaSansMonoVF-wght.da74d51c.woff2"
+   ],
+   "char_em": 0.45106937455068297,
+   "paragraphs": 7,
+   "measure_px": 343,
+   "measure_em": 21.4375,
+   "margin_left": 16,
+   "margin_right": 16,
+   "lines": 27,
+   "chars_per_line": [
+    43,
+    41,
+    46,
+    41,
+    34,
+    45,
+    44,
+    38,
+    41,
+    43,
+    45,
+    45,
+    43,
+    46,
+    43,
+    39,
+    40,
+    47,
+    47,
+    47,
+    42,
+    45,
+    43,
+    48,
+    44,
+    45,
+    36
+   ],
+   "last_lines": [
+    30,
+    28,
+    23,
+    24,
+    47,
+    6,
+    45
+   ],
+   "para_gap_px": 16,
+   "headings": {
+    "h1": {
+     "size": 40,
+     "lh": 48,
+     "weight": "460",
+     "family": "Mona Sans",
+     "space_above": null
+    },
+    "h2": {
+     "size": 24,
+     "lh": 31.2,
+     "weight": "600",
+     "family": "Mona Sans",
+     "space_above": 16
+    }
+   },
+   "layout_width": 375,
+   "responsive": true,
+   "font_file": {
+    "file_url": "https://docs.github.com/_next/static/media/MonaSansVF-wdth-wght-opsz.7a868ff4.woff2",
+    "name": "Mona Sans VF opsz=16 wght=400",
+    "x_height": 0.5262,
+    "cap_height": 0.729,
+    "char_em": 0.4426,
+    "lh_min_letters": 0.9354,
+    "lang": "en",
+    "axes": {
+     "wght": 400.0,
+     "opsz": 16
+    }
+   }
+  },
+  "1440": {
+   "url": "https://docs.github.com/en/get-started/start-your-journey/what-is-github",
+   "title": "What is GitHub? - GitHub Docs",
+   "viewport": 1440,
+   "font_stack": "\"Mona Sans\", MonaSansFallback, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\"",
+   "font_used": "Mona Sans",
+   "weight": "400",
+   "size": 16,
+   "line_height": 25.6,
+   "lh_ratio": 1.6,
+   "letter_spacing": "normal",
+   "word_spacing": "0px",
+   "x_height_canvas": 0.532,
+   "cap_height_canvas": 0.735,
+   "font_urls": [
+    "https://docs.github.com/_next/static/media/MonaSansVF-wdth-wght-opsz.7a868ff4.woff2",
+    "https://docs.github.com/_next/static/media/MonaSansMonoVF-wght.da74d51c.woff2"
+   ],
+   "char_em": 0.45106937455068297,
+   "paragraphs": 7,
+   "measure_px": 740,
+   "measure_em": 46.25,
+   "margin_left": 350,
+   "margin_right": 350,
+   "lines": 10,
+   "chars_per_line": [
+    101,
+    98,
+    95,
+    95,
+    97,
+    100,
+    103,
+    103,
+    97,
+    87
+   ],
+   "last_lines": [
+    39,
+    8,
+    61,
+    98,
+    80,
+    83,
+    36
+   ],
+   "para_gap_px": 16,
+   "headings": {
+    "h1": {
+     "size": 40,
+     "lh": 48,
+     "weight": "460",
+     "family": "Mona Sans",
+     "space_above": null
+    },
+    "h2": {
+     "size": 12,
+     "lh": 18,
+     "weight": "500",
+     "family": "Mona Sans",
+     "space_above": null
+    }
+   },
+   "layout_width": 1440,
+   "responsive": true,
+   "font_file": {
+    "file_url": "https://docs.github.com/_next/static/media/MonaSansVF-wdth-wght-opsz.7a868ff4.woff2",
+    "name": "Mona Sans VF opsz=16 wght=400",
+    "x_height": 0.5262,
+    "cap_height": 0.729,
+    "char_em": 0.4426,
+    "lh_min_letters": 0.9354,
+    "lang": "en",
+    "axes": {
+     "wght": 400.0,
+     "opsz": 16
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "_fuente": "calibrar.py sobre referencias medidas con medir_sitio.py; límites de la evidencia sin calibrar",
+ "fecha": "2026-10-12",
+ "referencias": [
+  {
+   "url": "https://carbondesignsystem.com/elements/typography/overview/",
+   "uso": "reading",
+   "grupo": "docs",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://design-system.service.gov.uk/styles/type-scale/",
+   "uso": "reading",
+   "grupo": "docs",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://developer.apple.com/design/human-interface-guidelines/typography",
+   "uso": "reading",
+   "grupo": "docs",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-height",
+   "uso": "reading",
+   "grupo": "docs",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://docs.github.com/en/get-started/start-your-journey/about-github-and-git",
+   "uso": "reading",
+   "grupo": "docs",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Typography",
+   "uso": "reading",
+   "grupo": "editorial",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://es.wikipedia.org/wiki/Tipograf%C3%ADa",
+   "uso": "reading",
+   "grupo": "editorial",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://m3.material.io/styles/typography/applying-type",
+   "uso": "reading",
+   "grupo": "docs",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://practicaltypography.com/line-length.html",
+   "uso": "reading",
+   "grupo": "editorial",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://web.dev/learn/design/typography",
+   "uso": "reading",
+   "grupo": "docs",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://www.bbc.com/news/articles/cqy43vrk8wv8o",
+   "uso": "reading",
+   "grupo": "editorial",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://www.eldiario.es/catalunya/erc-confirma-rufian-cabeza-lista-cierra-puerta-frente-amplio_1_13577275.html",
+   "uso": "reading",
+   "grupo": "editorial",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://www.gov.uk/service-manual/design/writing-for-user-interfaces",
+   "uso": "reading",
+   "grupo": "docs",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://www.smashingmagazine.com/2020/07/css-techniques-legibility/",
+   "uso": "reading",
+   "grupo": "editorial",
+   "medido": "2026-10-12"
+  },
+  {
+   "url": "https://www.theguardian.com/info/2024/feb/28/what-is-the-deeply-read-list",
+   "uso": "reading",
+   "grupo": "editorial",
+   "medido": "2026-10-12"
+  }
+ ],
+ "leading": {
+  "model": "current (a 0.95, λ 0.2)",
+  "a": 0.95,
+  "b": 1.0,
+  "lam": 0.2,
+  "loo_rmse": {
+   "current (a 0.95, λ 0.2)": 0.1063,
+   "refit a, λ (x-height slope 1)": 0.1316,
+   "refit a, b, λ": 0.1525,
+   "constant (median)": 0.1465
+  },
+  "n": 13,
+  "floor": 1.5
+ },
+ "uses": {
+  "reading": {
+   "measure": 75,
+   "reference_median": 76.5,
+   "n": 15
+  }
+ },
+ "longest": 80,
+ "margin_375": {
+  "reading": 16
+ },
+ "paragraph_gap_lines": 0.646,
+ "heading_ratio": 1.2247,
+ "h2_line_height": 1.25,
+ "body_px_1440": 17
+}

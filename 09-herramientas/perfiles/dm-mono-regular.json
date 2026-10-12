@@ -1,0 +1,293 @@
+{
+ "name": "DM Mono Regular",
+ "family": "DM Mono",
+ "style": "Regular",
+ "full_name": "DM Mono Regular",
+ "postscript": "DMMono-Regular",
+ "file": "DMMono-Regular.woff2",
+ "path": "fuentes/google-dm-mono/DMMono-Regular.woff2",
+ "sha1": "1a0430d40513f1eb6d4596c552b4f58761a1a0fd",
+ "container": "woff2",
+ "outlines": "glyf",
+ "upm": 1000,
+ "glyph_count": 229,
+ "axes": [],
+ "location": {},
+ "instances": [],
+ "weight": 400,
+ "width_class": 5,
+ "italic_angle": 0.0,
+ "fixed_pitch": true,
+ "kerning": null,
+ "vertical": {
+  "use_typo_metrics": false,
+  "hhea": {
+   "asc": 0.992,
+   "desc": 0.31,
+   "gap": 0.0,
+   "content": 1.302,
+   "normal": 1.302
+  },
+  "typo": {
+   "asc": 0.992,
+   "desc": 0.31,
+   "gap": 0.0,
+   "content": 1.302,
+   "normal": 1.302
+  },
+  "win": {
+   "asc": 0.992,
+   "desc": 0.31,
+   "gap": 0.0,
+   "content": 1.302,
+   "normal": 1.302
+  },
+  "web": {
+   "asc": 0.992,
+   "desc": 0.31,
+   "gap": 0.0,
+   "content": 1.302,
+   "normal": 1.302
+  },
+  "windows": {
+   "asc": 0.992,
+   "desc": 0.31,
+   "gap": 0.0,
+   "content": 1.302,
+   "normal": 1.302
+  },
+  "web_source": "hhea",
+  "platform_divergence": null
+ },
+ "glyphs": {
+  "x_height": 0.496,
+  "cap_height": 0.7,
+  "o_overshoot": 0.012,
+  "o_undershoot": 0.012,
+  "O_overshoot": 0.012,
+  "ascender": 0.72,
+  "descender": 0.232,
+  "script": "latn",
+  "x_height_os2": 0.496,
+  "cap_height_os2": 0.7,
+  "digit_height": 0.712,
+  "d_height": 0.72,
+  "lining_digits": true,
+  "xh_cap": 0.7086
+ },
+ "glyphs_by_script": {
+  "latn": {
+   "x_height": 0.496,
+   "cap_height": 0.7,
+   "o_overshoot": 0.012,
+   "o_undershoot": 0.012,
+   "O_overshoot": 0.012,
+   "ascender": 0.72,
+   "descender": 0.232
+  }
+ },
+ "horizontal": {
+  "space": 0.6,
+  "zero_ch": 0.6,
+  "en_dash": 0.6,
+  "em_dash": 0.6,
+  "digit_avg": 0.6,
+  "tabular_digits": true,
+  "os2_avg_width": 0.6,
+  "sidebearings": {
+   "H": [
+    0.047,
+    0.046
+   ],
+   "O": [
+    0.028,
+    0.028
+   ],
+   "n": [
+    0.088,
+    0.084
+   ],
+   "o": [
+    0.06,
+    0.06
+   ],
+   "a": [
+    0.083,
+    0.093
+   ]
+  }
+ },
+ "text": {
+  "es": {
+   "chars": 31039,
+   "cw": 0.6,
+   "cw_no_kern": 0.6,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": 0.0,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_freq_model": 0.6,
+   "model_gap_pct": 0.0,
+   "line_start_white": 0.0687,
+   "line_end_white": 0.0991,
+   "ink": {
+    "top": 0.931,
+    "top_char": "Á",
+    "bottom": 0.232,
+    "bottom_char": "g",
+    "top_lower": 0.727,
+    "top_lower_char": "á",
+    "bottom_lower": 0.232,
+    "bottom_lower_char": "g"
+   },
+   "lh_no_collision_lower": 0.959,
+   "lh_no_collision_letters": 1.163,
+   "lh_no_collision_all": 1.163
+  },
+  "en": {
+   "chars": 30195,
+   "cw": 0.6,
+   "cw_no_kern": 0.6,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": 0.0,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_freq_model": 0.6,
+   "model_gap_pct": 0.0,
+   "line_start_white": 0.0721,
+   "line_end_white": 0.0991,
+   "ink": {
+    "top": 0.811,
+    "top_char": "(",
+    "bottom": 0.232,
+    "bottom_char": "g",
+    "top_lower": 0.727,
+    "top_lower_char": "à",
+    "bottom_lower": 0.232,
+    "bottom_lower_char": "g"
+   },
+   "lh_no_collision_lower": 0.959,
+   "lh_no_collision_letters": 0.959,
+   "lh_no_collision_all": 1.043
+  },
+  "fr": {
+   "chars": 30260,
+   "cw": 0.6,
+   "cw_no_kern": 0.6,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": 0.0,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_freq_model": 0.6,
+   "model_gap_pct": 0.0,
+   "line_start_white": 0.0734,
+   "line_end_white": 0.1095,
+   "ink": {
+    "top": 0.931,
+    "top_char": "À",
+    "bottom": 0.259,
+    "bottom_char": "Ç",
+    "top_lower": 0.727,
+    "top_lower_char": "à",
+    "bottom_lower": 0.259,
+    "bottom_lower_char": "ç"
+   },
+   "lh_no_collision_lower": 0.986,
+   "lh_no_collision_letters": 1.19,
+   "lh_no_collision_all": 1.19
+  },
+  "de": {
+   "chars": 30371,
+   "cw": 0.6,
+   "cw_no_kern": 0.6,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": 0.0,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_freq_model": 0.6,
+   "model_gap_pct": 0.0,
+   "line_start_white": 0.0692,
+   "line_end_white": 0.1004,
+   "ink": {
+    "top": 0.884,
+    "top_char": "Ä",
+    "bottom": 0.232,
+    "bottom_char": "g",
+    "top_lower": 0.72,
+    "top_lower_char": "b",
+    "bottom_lower": 0.232,
+    "bottom_lower_char": "g"
+   },
+   "lh_no_collision_lower": 0.952,
+   "lh_no_collision_letters": 1.116,
+   "lh_no_collision_all": 1.116
+  },
+  "it": {
+   "chars": 30266,
+   "cw": 0.6,
+   "cw_no_kern": 0.6,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": 0.0,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_freq_model": 0.6,
+   "model_gap_pct": 0.0,
+   "line_start_white": 0.0748,
+   "line_end_white": 0.1109,
+   "ink": {
+    "top": 0.931,
+    "top_char": "À",
+    "bottom": 0.232,
+    "bottom_char": "g",
+    "top_lower": 0.727,
+    "top_lower_char": "à",
+    "bottom_lower": 0.232,
+    "bottom_lower_char": "g"
+   },
+   "lh_no_collision_lower": 0.959,
+   "lh_no_collision_letters": 1.163,
+   "lh_no_collision_all": 1.163
+  },
+  "pt": {
+   "chars": 30051,
+   "cw": 0.6,
+   "cw_no_kern": 0.6,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": 0.0,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_freq_model": 0.6,
+   "model_gap_pct": 0.0,
+   "line_start_white": 0.0707,
+   "line_end_white": 0.1056,
+   "ink": {
+    "top": 0.931,
+    "top_char": "À",
+    "bottom": 0.259,
+    "bottom_char": "Ç",
+    "top_lower": 0.727,
+    "top_lower_char": "à",
+    "bottom_lower": 0.259,
+    "bottom_lower_char": "ç"
+   },
+   "lh_no_collision_lower": 0.986,
+   "lh_no_collision_letters": 1.19,
+   "lh_no_collision_all": 1.19
+  }
+ },
+ "notes": [
+  "languages not covered by the font (characters missing): el 79.4%, ru 79.1%"
+ ]
+}

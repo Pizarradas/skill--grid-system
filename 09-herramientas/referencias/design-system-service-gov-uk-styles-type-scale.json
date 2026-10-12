@@ -1,0 +1,172 @@
+{
+ "url": "https://design-system.service.gov.uk/styles/type-scale/",
+ "uso": "reading",
+ "grupo": "docs",
+ "medido": "2026-10-12",
+ "viewports": {
+  "375": {
+   "url": "https://design-system.service.gov.uk/styles/type-scale/",
+   "title": "Type scale – GOV.UK Design System",
+   "viewport": 375,
+   "font_stack": "\"GDS Transport\", arial, sans-serif",
+   "font_used": "GDS Transport",
+   "weight": "400",
+   "size": 19,
+   "line_height": 25,
+   "lh_ratio": 1.3157894736842106,
+   "letter_spacing": "normal",
+   "word_spacing": "0px",
+   "x_height_canvas": 0.5,
+   "cap_height_canvas": 0.704,
+   "font_urls": [
+    "https://design-system.service.gov.uk/assets/fonts/light-94a07e06a1-v2.woff2",
+    "https://design-system.service.gov.uk/assets/fonts/bold-b542beb274-v2.woff2"
+   ],
+   "char_em": 0.42105263157894735,
+   "paragraphs": 5,
+   "measure_px": 345,
+   "measure_em": 18.157894736842106,
+   "margin_left": 15,
+   "margin_right": 15,
+   "lines": 25,
+   "chars_per_line": [
+    44,
+    41,
+    36,
+    40,
+    36,
+    38,
+    42,
+    43,
+    42,
+    43,
+    42,
+    40,
+    39,
+    10,
+    5,
+    24,
+    39,
+    42,
+    10,
+    30,
+    42,
+    38,
+    39,
+    27,
+    11
+   ],
+   "last_lines": [
+    21,
+    6,
+    9,
+    14,
+    11
+   ],
+   "para_gap_px": 15,
+   "headings": {
+    "h1": {
+     "size": 32,
+     "lh": 35,
+     "weight": "700",
+     "family": "GDS Transport",
+     "space_above": null
+    },
+    "h2": {
+     "size": 21,
+     "lh": 25,
+     "weight": "700",
+     "family": "GDS Transport",
+     "space_above": null
+    },
+    "h3": {
+     "size": 21,
+     "lh": 25,
+     "weight": "700",
+     "family": "GDS Transport",
+     "space_above": 16
+    }
+   },
+   "layout_width": 375,
+   "responsive": true,
+   "font_file": null
+  },
+  "1440": {
+   "url": "https://design-system.service.gov.uk/styles/type-scale/",
+   "title": "Type scale – GOV.UK Design System",
+   "viewport": 1440,
+   "font_stack": "\"GDS Transport\", arial, sans-serif",
+   "font_used": "GDS Transport",
+   "weight": "400",
+   "size": 19,
+   "line_height": 25,
+   "lh_ratio": 1.3157894736842106,
+   "letter_spacing": "normal",
+   "word_spacing": "0px",
+   "x_height_canvas": 0.5,
+   "cap_height_canvas": 0.704,
+   "font_urls": [
+    "https://design-system.service.gov.uk/assets/fonts/light-94a07e06a1-v2.woff2",
+    "https://design-system.service.gov.uk/assets/fonts/bold-b542beb274-v2.woff2"
+   ],
+   "char_em": 0.4215877030839576,
+   "paragraphs": 6,
+   "measure_px": 722,
+   "measure_em": 38,
+   "margin_left": 485,
+   "margin_right": 233,
+   "lines": 14,
+   "chars_per_line": [
+    83,
+    86,
+    80,
+    86,
+    89,
+    84,
+    50,
+    5,
+    24,
+    85,
+    10,
+    73,
+    87,
+    18
+   ],
+   "last_lines": [
+    70,
+    18,
+    82,
+    5,
+    11,
+    22
+   ],
+   "para_gap_px": 20,
+   "headings": {
+    "h1": {
+     "size": 48,
+     "lh": 50,
+     "weight": "700",
+     "family": "GDS Transport",
+     "space_above": null
+    },
+    "h2": {
+     "size": 24,
+     "lh": 30,
+     "weight": "700",
+     "family": "GDS Transport",
+     "space_above": null
+    },
+    "h3": {
+     "size": 24,
+     "lh": 30,
+     "weight": "700",
+     "family": "GDS Transport",
+     "space_above": 20
+    }
+   },
+   "layout_width": 1440,
+   "responsive": true,
+   "font_file": null
+  }
+ }
+}

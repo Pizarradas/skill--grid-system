@@ -1,0 +1,299 @@
+{
+ "name": "Space Grotesk Bold",
+ "family": "Space Grotesk",
+ "style": "Bold",
+ "full_name": "Space Grotesk Bold",
+ "postscript": "SpaceGrotesk-Bold",
+ "file": "SpaceGrotesk-Bold.woff2",
+ "path": "fuentes/google-space-grotesk/SpaceGrotesk-Bold.woff2",
+ "sha1": "ad1eca017cff2cc70ed8e107fbe70938b8d3c673",
+ "container": "woff2",
+ "outlines": "glyf",
+ "upm": 1000,
+ "glyph_count": 970,
+ "axes": [],
+ "location": {},
+ "instances": [],
+ "weight": 700,
+ "width_class": 5,
+ "italic_angle": 0.0,
+ "fixed_pitch": false,
+ "kerning": "GPOS",
+ "vertical": {
+  "use_typo_metrics": true,
+  "hhea": {
+   "asc": 0.984,
+   "desc": 0.292,
+   "gap": 0.0,
+   "content": 1.276,
+   "normal": 1.276
+  },
+  "typo": {
+   "asc": 0.984,
+   "desc": 0.292,
+   "gap": 0.0,
+   "content": 1.276,
+   "normal": 1.276
+  },
+  "win": {
+   "asc": 1.15,
+   "desc": 0.292,
+   "gap": 0.0,
+   "content": 1.442,
+   "normal": 1.442
+  },
+  "web": {
+   "asc": 0.984,
+   "desc": 0.292,
+   "gap": 0.0,
+   "content": 1.276,
+   "normal": 1.276
+  },
+  "windows": {
+   "asc": 0.984,
+   "desc": 0.292,
+   "gap": 0.0,
+   "content": 1.276,
+   "normal": 1.276
+  },
+  "web_source": "typo",
+  "platform_divergence": null
+ },
+ "glyphs": {
+  "x_height": 0.496,
+  "cap_height": 0.7,
+  "o_overshoot": 0.014,
+  "o_undershoot": 0.014,
+  "O_overshoot": 0.014,
+  "ascender": 0.7,
+  "descender": 0.2,
+  "script": "latn",
+  "x_height_os2": 0.486,
+  "cap_height_os2": 0.7,
+  "digit_height": 0.714,
+  "d_height": 0.7,
+  "lining_digits": true,
+  "xh_cap": 0.7086
+ },
+ "glyphs_by_script": {
+  "latn": {
+   "x_height": 0.496,
+   "cap_height": 0.7,
+   "o_overshoot": 0.014,
+   "o_undershoot": 0.014,
+   "O_overshoot": 0.014,
+   "ascender": 0.7,
+   "descender": 0.2
+  }
+ },
+ "horizontal": {
+  "space": 0.254,
+  "zero_ch": 0.648,
+  "en_dash": 0.584,
+  "em_dash": 0.888,
+  "digit_avg": 0.5928,
+  "tabular_digits": false,
+  "os2_avg_width": 0.577,
+  "sidebearings": {
+   "H": [
+    0.066,
+    0.066
+   ],
+   "O": [
+    0.05,
+    0.05
+   ],
+   "n": [
+    0.07,
+    0.066
+   ],
+   "o": [
+    0.046,
+    0.046
+   ],
+   "a": [
+    0.038,
+    0.022
+   ]
+  }
+ },
+ "text": {
+  "es": {
+   "chars": 31039,
+   "cw": 0.4825,
+   "cw_no_kern": 0.485,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": -0.507,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_firefox": 0.4834,
+   "cw_freq_model": 0.4801,
+   "model_gap_pct": -0.49,
+   "line_start_white": 0.0514,
+   "line_end_white": 0.0445,
+   "ink": {
+    "top": 0.914,
+    "top_char": "Ü",
+    "bottom": 0.214,
+    "bottom_char": "¿",
+    "top_lower": 0.714,
+    "top_lower_char": "i",
+    "bottom_lower": 0.2,
+    "bottom_lower_char": "g"
+   },
+   "lh_no_collision_lower": 0.914,
+   "lh_no_collision_letters": 1.114,
+   "lh_no_collision_all": 1.128
+  },
+  "en": {
+   "chars": 30195,
+   "cw": 0.4824,
+   "cw_no_kern": 0.4857,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": -0.69,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_firefox": 0.4831,
+   "cw_freq_model": 0.4814,
+   "model_gap_pct": -0.21,
+   "line_start_white": 0.0489,
+   "line_end_white": 0.0516,
+   "ink": {
+    "top": 0.756,
+    "top_char": "(",
+    "bottom": 0.246,
+    "bottom_char": "(",
+    "top_lower": 0.714,
+    "top_lower_char": "i",
+    "bottom_lower": 0.2,
+    "bottom_lower_char": "g"
+   },
+   "lh_no_collision_lower": 0.914,
+   "lh_no_collision_letters": 0.914,
+   "lh_no_collision_all": 1.002
+  },
+  "fr": {
+   "chars": 30260,
+   "cw": 0.4744,
+   "cw_no_kern": 0.4778,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": -0.714,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_firefox": 0.4752,
+   "cw_freq_model": 0.4749,
+   "model_gap_pct": 0.11,
+   "line_start_white": 0.0515,
+   "line_end_white": 0.0452,
+   "ink": {
+    "top": 0.914,
+    "top_char": "Ë",
+    "bottom": 0.246,
+    "bottom_char": "(",
+    "top_lower": 0.714,
+    "top_lower_char": "i",
+    "bottom_lower": 0.214,
+    "bottom_lower_char": "ç"
+   },
+   "lh_no_collision_lower": 0.928,
+   "lh_no_collision_letters": 1.128,
+   "lh_no_collision_all": 1.16
+  },
+  "de": {
+   "chars": 30371,
+   "cw": 0.4899,
+   "cw_no_kern": 0.4933,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": -0.695,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_firefox": 0.4906,
+   "cw_freq_model": 0.4911,
+   "model_gap_pct": 0.25,
+   "line_start_white": 0.0487,
+   "line_end_white": 0.0506,
+   "ink": {
+    "top": 0.914,
+    "top_char": "Ä",
+    "bottom": 0.2,
+    "bottom_char": "g",
+    "top_lower": 0.714,
+    "top_lower_char": "i",
+    "bottom_lower": 0.2,
+    "bottom_lower_char": "g"
+   },
+   "lh_no_collision_lower": 0.914,
+   "lh_no_collision_letters": 1.114,
+   "lh_no_collision_all": 1.114
+  },
+  "it": {
+   "chars": 30266,
+   "cw": 0.469,
+   "cw_no_kern": 0.473,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": -0.852,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_firefox": 0.4698,
+   "cw_freq_model": 0.4646,
+   "model_gap_pct": -0.93,
+   "line_start_white": 0.05,
+   "line_end_white": 0.046,
+   "ink": {
+    "top": 0.888,
+    "top_char": "À",
+    "bottom": 0.246,
+    "bottom_char": "(",
+    "top_lower": 0.714,
+    "top_lower_char": "i",
+    "bottom_lower": 0.2,
+    "bottom_lower_char": "g"
+   },
+   "lh_no_collision_lower": 0.914,
+   "lh_no_collision_letters": 1.088,
+   "lh_no_collision_all": 1.134
+  },
+  "pt": {
+   "chars": 30051,
+   "cw": 0.4907,
+   "cw_no_kern": 0.4937,
+   "reliable": true,
+   "shaper": "fontread",
+   "kern_pct": -0.608,
+   "missing": "",
+   "script": "latn",
+   "shaping": "simple",
+   "cw_firefox": 0.4916,
+   "cw_freq_model": 0.4904,
+   "model_gap_pct": -0.07,
+   "line_start_white": 0.0494,
+   "line_end_white": 0.0429,
+   "ink": {
+    "top": 0.914,
+    "top_char": "Ü",
+    "bottom": 0.246,
+    "bottom_char": "(",
+    "top_lower": 0.714,
+    "top_lower_char": "i",
+    "bottom_lower": 0.214,
+    "bottom_lower_char": "ç"
+   },
+   "lh_no_collision_lower": 0.928,
+   "lh_no_collision_letters": 1.128,
+   "lh_no_collision_all": 1.16
+  }
+ },
+ "notes": [
+  "languages not covered by the font (characters missing): el 76.7%, ru 79.1%"
+ ]
+}

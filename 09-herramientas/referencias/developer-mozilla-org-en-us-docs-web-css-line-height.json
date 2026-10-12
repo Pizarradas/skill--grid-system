@@ -1,0 +1,190 @@
+{
+ "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/line-height",
+ "uso": "reading",
+ "grupo": "docs",
+ "medido": "2026-10-12",
+ "viewports": {
+  "375": {
+   "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/line-height",
+   "title": "line-height CSS property - CSS | MDN",
+   "viewport": 375,
+   "font_stack": "Inter, sans-serif",
+   "font_used": "Inter",
+   "weight": "400",
+   "size": 16,
+   "line_height": 28,
+   "lh_ratio": 1.75,
+   "letter_spacing": "normal",
+   "word_spacing": "0px",
+   "x_height_canvas": 0.516,
+   "cap_height_canvas": 0.735,
+   "font_urls": [
+    "https://developer.mozilla.org/static/client/jetbrains-mono-latin.119994ed445212c7.woff2",
+    "https://developer.mozilla.org/static/client/inter-latin.9a3b1bc220d426ef.woff2",
+    "https://developer.mozilla.org/static/client/inter-italic-latin.fd2627ec16333c05.woff2"
+   ],
+   "char_em": 0.43622665534804755,
+   "paragraphs": 4,
+   "measure_px": 343,
+   "measure_em": 21.4375,
+   "margin_left": 16,
+   "margin_right": 16,
+   "lines": 24,
+   "chars_per_line": [
+    37,
+    49,
+    49,
+    39,
+    46,
+    40,
+    44,
+    46,
+    49,
+    36,
+    44,
+    47,
+    46,
+    46,
+    50,
+    40,
+    37,
+    40,
+    42,
+    35,
+    43,
+    49,
+    43,
+    44
+   ],
+   "last_lines": [
+    26,
+    43,
+    40,
+    7
+   ],
+   "para_gap_px": null,
+   "headings": {
+    "h1": {
+     "size": 40,
+     "lh": 50,
+     "weight": "400",
+     "family": "Inter",
+     "space_above": 0
+    },
+    "h2": {
+     "size": 32,
+     "lh": 40,
+     "weight": "400",
+     "family": "Inter",
+     "space_above": null
+    },
+    "h3": {
+     "size": 24,
+     "lh": 30,
+     "weight": "400",
+     "family": "Inter",
+     "space_above": null
+    }
+   },
+   "layout_width": 375,
+   "responsive": true,
+   "font_file": {
+    "file_url": "https://developer.mozilla.org/static/client/inter-latin.9a3b1bc220d426ef.woff2",
+    "name": "Inter Variable opsz=16 wght=400",
+    "x_height": 0.5425,
+    "cap_height": 0.7275,
+    "char_em": 0.4656,
+    "lh_min_letters": 0.9732,
+    "lang": "en",
+    "axes": {
+     "wght": 400.0,
+     "opsz": 16
+    }
+   }
+  },
+  "1440": {
+   "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/line-height",
+   "title": "line-height CSS property - CSS | MDN",
+   "viewport": 1440,
+   "font_stack": "Inter, sans-serif",
+   "font_used": "Inter",
+   "weight": "400",
+   "size": 16,
+   "line_height": 28,
+   "lh_ratio": 1.75,
+   "letter_spacing": "normal",
+   "word_spacing": "0px",
+   "x_height_canvas": 0.516,
+   "cap_height_canvas": 0.735,
+   "font_urls": [
+    "https://developer.mozilla.org/static/client/jetbrains-mono-latin.119994ed445212c7.woff2",
+    "https://developer.mozilla.org/static/client/inter-latin.9a3b1bc220d426ef.woff2",
+    "https://developer.mozilla.org/static/client/inter-italic-latin.fd2627ec16333c05.woff2"
+   ],
+   "char_em": 0.43622665534804755,
+   "paragraphs": 4,
+   "measure_px": 768,
+   "measure_em": 48,
+   "margin_left": 328.5,
+   "margin_right": 343.5,
+   "lines": 10,
+   "chars_per_line": [
+    99,
+    109,
+    107,
+    108,
+    92,
+    102,
+    104,
+    99,
+    98,
+    96
+   ],
+   "last_lines": [
+    7,
+    16,
+    58,
+    73
+   ],
+   "para_gap_px": null,
+   "headings": {
+    "h1": {
+     "size": 40,
+     "lh": 50,
+     "weight": "400",
+     "family": "Inter",
+     "space_above": 8
+    },
+    "h2": {
+     "size": 32,
+     "lh": 40,
+     "weight": "400",
+     "family": "Inter",
+     "space_above": null
+    },
+    "h3": {
+     "size": 24,
+     "lh": 30,
+     "weight": "400",
+     "family": "Inter",
+     "space_above": null
+    }
+   },
+   "layout_width": 1440,
+   "responsive": true,
+   "font_file": {
+    "file_url": "https://developer.mozilla.org/static/client/inter-latin.9a3b1bc220d426ef.woff2",
+    "name": "Inter Variable opsz=16 wght=400",
+    "x_height": 0.5425,
+    "cap_height": 0.7275,
+    "char_em": 0.4656,
+    "lh_min_letters": 0.9732,
+    "lang": "en",
+    "axes": {
+     "wght": 400.0,
+     "opsz": 16
+    }
+   }
+  }
+ }
+}
